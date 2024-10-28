@@ -24,7 +24,7 @@ cd react-component
 To build the Docker image for the application, run the following command in the root directory of the project:
 
 ```bash
-docker build -t treasure_onah_coding_assignment12 .
+docker build -t treasure_onah_coding_assignment13 .
 ```
 
 ### Running the Docker Container
@@ -32,7 +32,7 @@ docker build -t treasure_onah_coding_assignment12 .
 Once the image is built, you can run the container using:
 
 ```bash
-docker run -dp 8018:8018 --name treasure_onah_coding_assignment12 treasure_onah_coding_assignment12
+docker run -dp 8018:8018 --name treasure_onah_coding_assignment13 treasure_onah_coding_assignment13
 
 ```
 
