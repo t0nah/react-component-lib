@@ -1,0 +1,1 @@
+{"version":3,"file":"TableFooter.js","sourceRoot":"","sources":["../../../src/components/Table/TableFooter.tsx"],"names":[],"mappings":";;;;;AACA,OAAO,MAAM,MAAM,mBAAmB,CAAA;AAGtC,IAAM,iBAAiB,GAAG,MAAM,CAAC,KAAK,uFAAkB,oBAEvD,IAAA,CAAA;AAED,IAAM,WAAW,GAA+B,UAAC,EAAY;QAAV,QAAQ,cAAA;IACzD,OAAO,KAAC,iBAAiB,cAAE,QAAQ,GAAqB,CAAA;AAC1D,CAAC,CAAA;AAED,eAAe,WAAW,CAAA"}

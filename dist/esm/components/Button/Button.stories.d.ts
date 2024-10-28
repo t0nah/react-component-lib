@@ -1,0 +1,11 @@
+import { type Meta } from '@storybook/react';
+import { type ButtonProps } from './Button.types';
+declare const meta: Meta;
+export default meta;
+export declare const PrimaryMedium: import("@storybook/types").AnnotatedStoryFn<import("@storybook/react/dist/types-0fc72a6d").R, ButtonProps>;
+export declare const Small: import("@storybook/types").AnnotatedStoryFn<import("@storybook/react/dist/types-0fc72a6d").R, ButtonProps>;
+export declare const Large: import("@storybook/types").AnnotatedStoryFn<import("@storybook/react/dist/types-0fc72a6d").R, ButtonProps>;
+export declare const Disabled: import("@storybook/types").AnnotatedStoryFn<import("@storybook/react/dist/types-0fc72a6d").R, ButtonProps>;
+export declare const Success: import("@storybook/types").AnnotatedStoryFn<import("@storybook/react/dist/types-0fc72a6d").R, ButtonProps>;
+export declare const Error: import("@storybook/types").AnnotatedStoryFn<import("@storybook/react/dist/types-0fc72a6d").R, ButtonProps>;
+export declare const Warning: import("@storybook/types").AnnotatedStoryFn<import("@storybook/react/dist/types-0fc72a6d").R, ButtonProps>;
